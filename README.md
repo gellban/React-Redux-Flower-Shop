@@ -16,14 +16,4 @@ http://localhost:3000/
 #all code in dev/ folder
 
 
-<!DOCTYPE html>  
-<html>  
-<head>  
-  <title>Redirecting to main site</title>
-  <meta charset="UTF-8">
-  <meta http-equiv="refresh" content="0;url=src/index.html">
-</head>  
-<body>  
-  Redirecting<i>↻</i>
-</body>  
-</html> 
+
