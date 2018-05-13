@@ -16,4 +16,5 @@ http://localhost:3000/
 #all code in dev/ folder
 
 
-
+#To show the final webpage:
+http://htmlpreview.github.io/?https://github.com/gellban/React-Redux-Flower-Shop/blob/master/src/index.html
