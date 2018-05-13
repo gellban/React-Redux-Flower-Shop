@@ -21,7 +21,7 @@ http://localhost:3000/
 <head>  
   <title>Redirecting to main site</title>
   <meta charset="UTF-8">
-  <meta http-equiv="refresh" content="0;url=README.html">
+  <meta http-equiv="refresh" content="0;url=src/index.html">
 </head>  
 <body>  
   Redirecting<i>↻</i>
